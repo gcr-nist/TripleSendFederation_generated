@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8 -shared -fexceptions -lstdc++">
+      <target file="libprocessid-0.3.0-SNAPSHOT.so" lastModified="15ad856ab38">
+         <source file="../../../../obj/amd64-Linux-gpp/ProcessId.cff9175b.o" lastModified="15ad856a368"/>
+      </target>
+   </processor>
+</history>

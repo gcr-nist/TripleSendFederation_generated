@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo message="Creating folder for the execution..."/>
+  <mkdir dir="/home/vagrant/workspace/TripleIFederation_generated/java-federates/TripleIFederation-base-java/target/TripleReceive"/>
+  <mkdir dir="/home/vagrant/workspace/TripleIFederation_generated/java-federates/TripleIFederation-base-java/target/TripleSend"/>
+</target>
+</project>
