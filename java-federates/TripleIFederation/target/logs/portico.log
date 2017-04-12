@@ -1,0 +1,18 @@
+ERROR [Thread-1] portico.lrc: Currently ticking
+hla.rti.ConcurrentAccessAttempted: Currently ticking serial:0
+	at org.portico.impl.hla13.Impl13Helper.checkAccess(Impl13Helper.java:171)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5806)
+	at org.portico.impl.hla13.Rti13Ambassador.resignFederationExecution(Rti13Ambassador.java:412)
+	at c2w.hla.SynchronizedFederate.handleIfSimEnd(SynchronizedFederate.java:1324)
+	at c2w.hla.SynchronizedFederate.receiveInteractionSF(SynchronizedFederate.java:1313)
+	at c2w.hla.SynchronizedFederate.receiveInteraction(SynchronizedFederate.java:1301)
+	at TripleIFederation.TripleSendBase.receiveInteraction(TripleSendBase.java:149)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:688)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:489)
+	at org.portico.lrc.LRC.tick(LRC.java:449)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at c2w.hla.SynchronizedFederate$AdvanceTimeThread.run(SynchronizedFederate.java:1040)
