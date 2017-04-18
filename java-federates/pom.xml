@@ -4,15 +4,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.webgme.guest</groupId>
-		<artifactId>TripleIFederation_root</artifactId>
+		<artifactId>TripleSendFederation_root</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>TripleIFederation-java</artifactId>
+	<artifactId>TripleSendFederation-java</artifactId>
 	<packaging>pom</packaging>
 	<modules>
-		<module>TripleIFederation-base-java</module>
-		<module>TripleIFederation-rti-java</module>
-		<module>TripleIFederation</module>
+		<module>TripleSendFederation-base-java</module>
+		<module>TripleSendFederation-rti-java</module>
+		<module>TripleSendFederation</module>
 	</modules>
 	<dependencies>
 		<dependency>
