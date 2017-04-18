@@ -1,4 +1,4 @@
-package TripleIFederation;
+package TripleFederation;
 
 import java.util.Random;
 
@@ -51,13 +51,13 @@ public class TripleSend extends TripleSendBase {
 			int1.sendInteraction(getRTI());
 			log.info("Sent Int1");
 			
-//			Int2 int2 = create_Int2();
-//			int2.sendInteraction(getRTI());
-//			log.info("Sent Int2");
-//			
-//			Int3 int3 = create_Int3();
-//			int3.sendInteraction(getRTI());
-//			log.info("Sent Int3");
+			Int2 int2 = create_Int2();
+			int2.sendInteraction(getRTI());
+			log.info("Sent Int2");
+			
+			Int3 int3 = create_Int3();
+			int3.sendInteraction(getRTI());
+			log.info("Sent Int3");
 			
 			// NOTE: send interactions beyond this line (see hla_interaction_send)
 

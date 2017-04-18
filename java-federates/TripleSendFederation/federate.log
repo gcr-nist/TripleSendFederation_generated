@@ -1,0 +1,87 @@
+2017-04-18 15:00:19.779 [main] INFO  TripleFederation.TripleSend - start==>
+2017-04-18 15:00:19.780 [main] INFO  TripleFederation.TripleSend - executing==>
+2017-04-18 15:00:26.345 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:26.350 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:26.350 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:26.351 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:26.351 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:29.776 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:29.776 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:29.776 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:29.776 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:30.774 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:30.774 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:30.775 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:30.775 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:31.774 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:31.775 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:31.775 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:31.775 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:32.779 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:32.779 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:32.779 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:32.780 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:33.777 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:33.778 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:33.778 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:33.778 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:34.777 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:34.778 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:34.778 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:34.778 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:35.785 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:35.785 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:35.786 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:35.786 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:36.779 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:36.780 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:36.780 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:36.781 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:37.789 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:37.789 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:37.789 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:37.790 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:38.789 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:38.789 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:38.789 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:38.790 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:39.790 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:39.792 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:39.792 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:39.792 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:40.783 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:40.783 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:40.784 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:40.784 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:41.789 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:41.789 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:41.790 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:41.790 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:42.790 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:42.790 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:42.791 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:42.791 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:43.793 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:43.794 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:43.794 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:43.794 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:44.792 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:44.792 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:44.793 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:44.793 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:45.799 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:45.800 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:45.800 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:45.800 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:46.793 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:46.794 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:46.794 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:46.794 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:47.794 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:47.794 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:47.794 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:47.795 [main] DEBUG TripleFederation.TripleSend - inside while true==>
+2017-04-18 15:00:48.805 [main] INFO  TripleFederation.TripleSend - Sent Int1
+2017-04-18 15:00:48.806 [main] INFO  TripleFederation.TripleSend - Sent Int2
+2017-04-18 15:00:48.807 [main] INFO  TripleFederation.TripleSend - Sent Int3
+2017-04-18 15:00:48.808 [main] DEBUG TripleFederation.TripleSend - inside while true==>
