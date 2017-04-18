@@ -3,12 +3,7 @@ package TripleIFederation;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import TripleIFederation.Int1;
-import TripleIFederation.Int2;
-import TripleIFederation.Int3;
-import TripleIFederation.TripleReceiveBase;
 import c2w.hla.InteractionRoot;
-import c2w.hla.SynchronizedFederate.AdvanceTimeRequest;
 import c2w.hla.ObjectRoot;
 
 /**
