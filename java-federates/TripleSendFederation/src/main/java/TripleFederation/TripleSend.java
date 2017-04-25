@@ -29,10 +29,17 @@ public class TripleSend extends TripleSendBase {
 		InteractionRoot interaction = null;
 		ObjectReflector reflector = null;
 
+        ////////////////////////////////////////
+        // perform basic initialization below //
+        ////////////////////////////////////////
+
 		AdvanceTimeRequest atr = new AdvanceTimeRequest(logicalTime);
 		putAdvanceTimeRequest(atr);
 
 		readyToPopulate();
+        //////////////////////////////////////////////////////////////////
+		// perform initialization that depends on other federates below //
+        //////////////////////////////////////////////////////////////////
 		Random rand = new Random();
 		// NOTE: do initialization that depends on other federates here
 		readyToRun();
@@ -41,8 +48,9 @@ public class TripleSend extends TripleSendBase {
 
 		// executes until the federate terminates
 		while (true) {
-			log.debug("inside while true==>");
-			// NOTE: change the federate logical step size below
+            /////////////////////////////////////////////////////////
+            // update step size for logical time progression below //
+            /////////////////////////////////////////////////////////
 			logicalTime += 1.0;
 
 			atr.requestSyncStart();
@@ -59,9 +67,9 @@ public class TripleSend extends TripleSendBase {
 			int3.sendInteraction(getRTI());
 			log.info("Sent Int3");
 			
-			// NOTE: send interactions beyond this line (see hla_interaction_send)
-
-			// executes until all interactions from the previous time step are handled
+            ///////////////////////////////////////////////////////////////////////
+			// send interactions that must be sent every logical time step below //
+            ///////////////////////////////////////////////////////////////////////
 			while ((interaction = getNextInteractionNoWait()) != null) {
 				
 							
